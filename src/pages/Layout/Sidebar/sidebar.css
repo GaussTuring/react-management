@@ -1,0 +1,6 @@
+.logo{
+    height: 64px;
+    background: url('../../../images/icon-navi-lol.png') no-repeat;
+    background-position: center;
+    background-size: 25%;
+}
